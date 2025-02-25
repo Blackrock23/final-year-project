@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Aot T shirt",
+        "price": 200,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Itachi T shirt",
+        "price": 250,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Naruto Back Print Tshirt",
+        "price": 290,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Anya T shirt",
+        "price": 200,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" Chainsaw men  t shirt",
+        "price": 200,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":"10 PAck of Wallpaper",
+        "price": 200,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" Luffy full laptop Cover",
+        "price": 300,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" One Piece Full Crew Laptop full Body Cover",
+        "price": 300,
+        "image": "image/8.png"
+    }
+
+]
